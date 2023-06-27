@@ -1,0 +1,27 @@
+# Dependency directories
+node_modules/
+# Build artifacts
+build/
+dist/
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+# Coverage reports
+coverage/
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime*
+# Compiled output
+*.log
+*.log.*
+*.pid
+*.pid.*
+# OS generated files
+.DS_Store
+Thumbs.db
